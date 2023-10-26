@@ -88,15 +88,11 @@ shell
 
 ## Team Members
 
-   -Bayush Kibert.
-
-   -Ruth Demise.
-
-   -Endemariam Mehari.
-
-   -Firdews Abdulmalik.
-
-   -Natnael Tesfaye.
-
-   -Natinael  Adefris .
+    
+   - Bayush Kibert.
+   - Ruth Demise
+   - Endemariam Mehari.
+   - Firdews Abdulmalik.
+   - Natnael Tesfaye.
+   - Natinael  Adefris .
 
