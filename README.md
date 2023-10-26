@@ -86,3 +86,17 @@ shell
    - Choose option 8 to exit the application.
 
 
+## Team Members
+
+   -Bayush Kibert.
+
+   -Ruth Demise.
+
+   -Endemariam Mehari.
+
+   -Firdews Abdulmalik.
+
+   -Natnael Tesfaye.
+
+   -Natinael  Adefris .
+
