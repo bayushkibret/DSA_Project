@@ -138,7 +138,7 @@ public:
     void orderProduct() {
         if (currentUser.empty()) {
             cout << "Register or Login first to order a product." << endl;
-            // Implement registration and login logic here if needed.
+            
             return;
         }
 
@@ -146,7 +146,7 @@ public:
         listProducts();
 
         cout << "Enter the product name to order: ";
-        cin.ignore(); // Consume the newline character left in the buffer.
+        cin.ignore(); 
         getline(cin, product_name);
 
         const char* sql = "INSERT INTO Order_Details (User_ID, Product_ID, Order_Time) "
@@ -244,11 +244,11 @@ public:
         double product_price;
 
         cout << "Enter Product Name: ";
-        cin.ignore(); // Ignore the newline character left in the buffer
+        cin.ignore(); 
         getline(cin, product_name);
         cout << "Enter Product Price: ";
         cin >> product_price;
-        cin.ignore(); // Ignore the newline character
+        cin.ignore();
         cout << "Enter Product Description: ";
         getline(cin, product_description);
 
@@ -274,8 +274,8 @@ public:
     }
 
     void logoutUser() {
-        // Implement the logout logic here
-        currentUser = ""; // Clear the current user
+      
+        currentUser = ""; 
         cout << "Logout successful." << endl;
     }
 
