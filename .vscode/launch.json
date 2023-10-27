@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Bayush/Desktop/DSA_Project",
-      "program": "c:/Users/Bayush/Desktop/DSA_Project/build/Debug/outDebug",
+      "cwd": "c:/Users/Bayush/Desktop/DSA_Project/DSA_Project",
+      "program": "c:/Users/Bayush/Desktop/DSA_Project/DSA_Project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
